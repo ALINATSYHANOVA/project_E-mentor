@@ -70,6 +70,7 @@ a {
   color: #E5E5E5;
   font-weight: 500;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .main__benefitc-item {
@@ -168,6 +169,7 @@ a {
   color: #E5E5E5;
   font-weight: 500;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .main__benefitc-item {
@@ -200,7 +202,7 @@ a {
 
 .footer {
   min-height: 300px;
-  border-top: 1px solid #bababa;
+  border-top: 1px solid #d6d6d6;
 }
 .footer .footer__wrapper {
   display: flex;
@@ -284,7 +286,7 @@ a {
   flex-direction: column;
 }
 .footer .footer__copyright {
-  border-top: 1px solid #bababa;
+  border-top: 1px solid d6d6d6;
 }
 .footer .footer__copyright .footer__copyright-wrapper {
   margin: 30px 0;
