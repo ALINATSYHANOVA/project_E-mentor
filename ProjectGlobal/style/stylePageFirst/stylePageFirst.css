@@ -286,7 +286,7 @@ a {
   flex-direction: column;
 }
 .footer .footer__copyright {
-  border-top: 1px solid d6d6d6;
+  border-top: 1px solid #d6d6d6;
 }
 .footer .footer__copyright .footer__copyright-wrapper {
   margin: 30px 0;
